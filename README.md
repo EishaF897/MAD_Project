@@ -1,7 +1,8 @@
 # MAD_Project
-This is our MAD Final Project code
+This is our MAD Final Project code. The Apps name is Pizzalicious. It is a Pizza ordering app. 
 
-The Apps name is Pizzalicious. It is a Pizza ordering app. It consists of a Menu with 4 sections; Main Menu, New Arrivals, Deals and Extras. The user will select their desired item and add it to cart. They can also view cart, clear cart, add and delete a specefic item. They will then proceed to checkout from 'Cart' interface. At Checkout, they will enter their name and address and place order. 
+### User portal
+Here the user will select from menu which consists of a Menu with 4 sections; Main Menu, New Arrivals, Deals and Extras. The user will select their desired item and add it to cart. They can also view cart, clear cart, add and delete a specefic item. They will then proceed to checkout from 'Cart' interface. At Checkout, they will enter their name and address and place order. 
 
-## Admin portal
+### Admin portal
 We have also made a admin portal where admin will signup and add, delete or update the product. Each member has done a functionality. 
